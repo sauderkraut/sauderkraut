@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sauderkraut
-- 👀 I’m interested in data visualization
-- 🌱 I’m currently learning data analytics and visualization via Google / Coursera
-- 💞️ I’m looking to collaborate on data visualization in a city planning context
+- 👀 I’m interested in stuff
+- 🌱 I’m currently learning things
 
 <!---
 sauderkraut/sauderkraut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
